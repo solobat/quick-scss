@@ -1,10 +1,9 @@
 {
   "name": "quick-scss",
   "main": "./lib/quick-scss",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "a helper for scss",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-text-editor": "quick-scss:goto"
   },
