@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-text-editor": {
     "ctrl-alt-d": "quick-scss:goto"
   }
 }

@@ -2,11 +2,11 @@
   "name": "quick-scss",
   "main": "./lib/quick-scss",
   "version": "0.1.2",
-  "description": "A short description of your package",
+  "description": "a helper for scss",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "quick-scss:toggle"
+    "atom-text-editor": "quick-scss:goto"
   },
   "repository": "https://github.com/solobat/quick-scss",
   "license": "MIT",
