@@ -1,14 +1,14 @@
 {
   "name": "quick-scss",
   "main": "./lib/quick-scss",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "quick-scss:toggle"
   },
-  "repository": "https://github.com/atom/quick-scss",
+  "repository": "https://github.com/solobat/quick-scss",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
